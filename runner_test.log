@@ -1,0 +1,90 @@
+2024-10-29 13:16:47,500 - INFO - Экземпляр класса Runner создан успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,501 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,502 - INFO - "test_run" выполнен успешно
+NoneType: None
+2024-10-29 13:16:47,502 - WARNING - Экземпляр класса Runner не создан, задано неверное имя
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 15, in test_walk
+    t_walk = runner.Runner(563,)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/QuixoticInterestingLanservers/runner.py", line 6, in __init__
+    raise TypeError(f'Имя может быть только строкой, передано {type(name).__name__}')
+TypeError: Имя может быть только строкой, передано int
+2024-10-29 13:16:47,502 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,503 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,503 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,503 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,503 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,503 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,503 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,504 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,504 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
+2024-10-29 13:16:47,504 - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "/home/runner/QuixoticInterestingLanservers/main.py", line 22, in test_walk
+    t_walk.walk()
+    ^^^^^^
+UnboundLocalError: cannot access local variable 't_walk' where it is not associated with a value
